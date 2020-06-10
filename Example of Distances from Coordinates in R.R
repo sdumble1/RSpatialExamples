@@ -7,7 +7,7 @@ library(leaflet)
 
 
 #read in station list with names and coordinates
-stations<-read.csv("C:/Users/sdumb/Dropbox (SSD)/Packages/Distance To Point/stations.csv")
+stations<-read.csv("stations.csv")
 #i just made these points up
 
 
